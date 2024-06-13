@@ -1,0 +1,26 @@
+{
+  "name": "advancedcoursereactcrm",
+  "version": "1.0.0",
+  "description": "Advanced Course React and Next",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamalves94/advanced-course-react.js-next.js.git"
+  },
+  "author": "william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamalves94/advanced-course-react.js-next.js/issues"
+  },
+  "homepage": "https://github.com/williamalves94/advanced-course-react.js-next.js#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
